@@ -1,7 +1,7 @@
 # PWA-Text_editor
 
 ## Link to the deployed application
-
+https://text-editor-by-kbjss071.herokuapp.com/
 
 ## Description
 This application will let you create notes or code snippets with or without an internet connection. So the user can reliably retrieve them for later use.
